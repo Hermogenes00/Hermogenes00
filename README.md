@@ -1,7 +1,7 @@
-# Oi eu me chamo Hermógenes! (O que eu gosto mesmo é de tecnologia !!!)
-
+# Oi eu me chamo Hermógenes! (O que eu gosto mesmo é de tecnologia !!!) :dart:
+ 
 ### Sobre mim:
-<p>Sou graduado em Análise e Desenvolvimento de Sistemas, estou concluindo minha pós-graduação em Desenvolvimento Orientado a Objetos (naquela velha fase do tcc)</p>
+<p>Sou graduado em Análise e Desenvolvimento de Sistemas, estou concluindo minha pós-graduação em Desenvolvimento Orientado a Objetos (naquela velha fase do tcc :grimacing:)</p>
 
 ### Tecnologias que já realizei projetos
 <ul>
@@ -11,9 +11,9 @@
   <li>Java => Orientação a Objeto,SpringBoot, Java Android</li>
   <li>MySql</li>
   <li>AWS => IA,S3,EC2 </li>
+  <li>Postman</li>
 </ul>
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/Hermogenes00)
 
 
 #### Estou buscando a especialização em Javascript (NodeJS + React) e Java(Spring + Angular)
