@@ -6,7 +6,7 @@
 ### Tecnologias que já realizei projetos
 <ul>
   <li>Javascript</li>
-  <li>NodeJS => Express, Sequelize, KnexJs, Jest(TDD), Axios, EJS (view engine)</li>
+  <li>NodeJS => Express, Sequelize, KnexJs, Jest(TDD), Axios, EJS (view engine), Socket IO, JWT, API Rest</li>
   <li>ReactJS => Storybook, Redux, StyledComponent</li>
   <li>Java => Orientação a Objeto,SpringBoot, Java Android</li>
   <li>MySql</li>
