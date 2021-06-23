@@ -13,4 +13,6 @@
   <li>AWS => IA,S3,EC2 </li>
 </ul>
 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
 #### Estou buscando a especialização em Javascript (NodeJS + React) e Java(Spring + Angular)
