@@ -10,5 +10,7 @@
   <li>ReactJS => Storybook, Redux, StyledComponent</li>
   <li>Java => Orientação a Objeto,SpringBoot, Java Android</li>
   <li>MySql</li>
+  <li>AWS => IA,S3,EC2 </li>
 </ul>
 
+#### Estou buscando a especialização em Javascript (NodeJS + React) e Java(Spring + Angular)
