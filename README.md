@@ -1,8 +1,7 @@
 # Oi eu me chamo Hermógenes! (O que eu gosto mesmo é de tecnologia !!!) :dart:
  
 ### Sobre mim:
-<p>Sou graduado em Análise e Desenvolvimento de Sistemas, estou concluindo minha pós-graduação em Desenvolvimento Orientado a Objetos (naquela velha fase do tcc :grimacing:)</p>
-
+<p>Sou graduado em Análise e Desenvolvimento de Sistemas, finalizando pós-graduação em Desenvolvimento Orientado a Objetos.
 ### Tecnologias
 <ul>
   <li>Javascript</li>
