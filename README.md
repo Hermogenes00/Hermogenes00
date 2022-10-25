@@ -2,6 +2,7 @@
  
 ### Sobre mim:
 <p>Sou graduado em Análise e Desenvolvimento de Sistemas, finalizando pós-graduação em Desenvolvimento Orientado a Objetos.
+ 
 ### Tecnologias
 <ul>
   <li>Javascript</li>
