@@ -1,4 +1,4 @@
-# Oi eu me chamo Hermógenes! (O que eu gosto mesmo é de tecnologia !!!) :dart:
+# Oi eu me chamo Hermógenes! :dart:
  
 ### Sobre mim:
 <p>Sou graduado em Análise e Desenvolvimento de Sistemas, finalizando pós-graduação em Desenvolvimento Orientado a Objetos.
