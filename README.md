@@ -7,6 +7,7 @@
 <ul>
  <li>Java</li>
  <li>Kotlin</li>
+ <li>Spring</li>
   <li>Javascript</li>
   <li>NodeJS => Express, NestJs, Sequelize, KnexJs, Jest(TDD), Axios, EJS (view engine), Socket IO, JWT, API Rest</li>
   <li>Angular</li>
