@@ -1,7 +1,7 @@
 # Oi eu me chamo Hermógenes! :dart:
  
 ### Sobre mim:
-<p>Sou graduado em Análise e Desenvolvimento de Sistemas, finalizando pós-graduação em Desenvolvimento Orientado a Objetos.
+<p>Sou graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Desenvolvimento Orientado a Objetos utilizando a linguagem Java
  
 ### Tecnologias
 <ul>
