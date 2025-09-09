@@ -13,6 +13,8 @@
   <li>Angular</li>
   <li>Java</li>
   <li>MySql</li>
+   <li>Postgres</li>
+   <li>DynamoDB</li>
   <li>AWS => IA,S3,EC2 </li>
   <li>Postman</li>
 </ul>
